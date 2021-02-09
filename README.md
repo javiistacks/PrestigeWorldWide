@@ -16,4 +16,5 @@ Enhancements Made to Webiste
 10. Assigned footer html element to the bottom of the page.
 11. Added section to class "content"
 12. Added aside semantic html element to class benefits 
-13. Finished Product: https://javiistacks.github.io/prestigeworldwide
+13. My Git hub profile : https://github.com/javiistacks
+14. Finished Product: https://javiistacks.github.io/prestigeworldwide
