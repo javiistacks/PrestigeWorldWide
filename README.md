@@ -16,7 +16,7 @@ Enhancements Made to Webiste
 6. Assigned h1 html element to header.
 7. Added alt attributes to all pictures to make website more accessible.
 8. Fixed "search engine optimization" hyperlink direction for user experience by giving it an id. Demonstrated below in red circle.
-<img src="images/readme.jpg" width="550" height="400" >
+<img src="./assets/images/readme.jpg" width="550" height="400" >
 
 9. Condesed css making it easier for user interface.
 10. Assigned footer html element to the bottom of the page.
